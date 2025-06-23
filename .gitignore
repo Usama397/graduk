@@ -1,8 +1,7 @@
 /vendor
+/vendor/ *
 /node_modules
 /public/storage
-.env
-.env.*
 /storage/*.key
 Homestead.yaml
 Homestead.json
@@ -11,3 +10,4 @@ Homestead.json
 .phpunit.result.cache
 .DS_Store
 Thumbs.db
+config.bat
